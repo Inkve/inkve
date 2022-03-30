@@ -1,7 +1,7 @@
 <a href="https://qiwi.com/n/JUSHE892">
   <img align="left" width="50px" src="icons8_qiwi_500px.png" />
 </a>
-***
+
 <br>
 # Statistics
 <div>
